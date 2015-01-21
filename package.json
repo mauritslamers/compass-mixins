@@ -2,15 +2,18 @@
   "name": "compass-mixins-sc",
   "version": "0.0.1",
   "author": {
-    "name": "Maurits Lamers",
     "name": "Guillaume Balaine",
     "email": "igosuki@gmail.com",
-    "url": "https://github.com/mauritslamers"
+    "url": "https://github.com/Igosuki"
   },
   "contributors": [
     {
       "name": "Michael Heillein",
       "url": "https://github.com/michaek"
+    },
+    {
+      "name": "Maurits Lamers",
+      "url": "https://github.com/mauritslamers"
     }
   ],
   "description": "Compass stylesheets for SC",
@@ -20,7 +23,7 @@
   },
   "main": "compass-mixins.js",
   "keywords": [
-    "sproutcore-bt"
+    "sproutcore-bt",
     "compass",
     "mixins",
     "sass",
