@@ -62,9 +62,10 @@ var readFile = function(path){
   });
 };
 
-readFile(pathlib.join(basepath,'_compass.scss'));
-readFile(pathlib.join(basepath,'_lemonade.scss'));
-readFile(pathlib.join(basepath,'animation/_animate.scss'));
+readFile(pathlib.join(basepath, '_compass.scss'));
+readFile(pathlib.join(basepath, '_lemonade.scss'));
+readFile(pathlib.join(basepath, 'animation/_core.scss'));
+readFile(pathlib.join(basepath, 'animation/_animate.scss'));
 
 //console.log(ret);
 exports.compass = ret;
